@@ -1,5 +1,5 @@
 <h1 align="center">Hi  🙃 , I'm Fatima Diaz</h1>
-<h3 align="center">I am bioinformatic and biostatistics
+<h3 align="center">I am a bioinformatician and a biostatistician.
 
 🧬 "Decoding life’s secrets with data, physics, and code—where biology meets software, and logic shapes discovery!"</h3>
 
